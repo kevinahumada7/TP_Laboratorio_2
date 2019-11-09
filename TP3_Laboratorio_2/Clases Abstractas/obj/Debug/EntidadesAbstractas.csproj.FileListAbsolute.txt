@@ -1,0 +1,16 @@
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\Clases Abstractas\bin\Debug\ClassLibrary1.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\Clases Abstractas\bin\Debug\ClassLibrary1.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\Clases Abstractas\obj\Debug\ClassLibrary1.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\Clases Abstractas\obj\Debug\ClassLibrary1.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Clases Abstractas\bin\Debug\ClassLibrary1.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Clases Abstractas\bin\Debug\ClassLibrary1.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Clases Abstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Clases Abstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Clases Abstractas\obj\Debug\ClassLibrary1.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Clases Abstractas\obj\Debug\ClassLibrary1.pdb

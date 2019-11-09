@@ -1,0 +1,24 @@
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Test Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Test Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Test Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Test Unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Test Unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Test Unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Test Unitario\bin\Debug\Test Unitario.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Test Unitario\bin\Debug\Test Unitario.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Test Unitario\bin\Debug\Archivos.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Test Unitario\bin\Debug\Clases de Instancia.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Test Unitario\bin\Debug\ClassLibrary1.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Test Unitario\bin\Debug\Excepciones.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Test Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Test Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Test Unitario\bin\Debug\Archivos.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Test Unitario\bin\Debug\ClassLibrary1.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Test Unitario\bin\Debug\Clases de Instancia.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Test Unitario\bin\Debug\Excepciones.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Test Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Test Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Test Unitario\obj\Debug\Test Unitario.csprojAssemblyReference.cache
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Test Unitario\obj\Debug\Test Unitario.csproj.CopyComplete
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Test Unitario\obj\Debug\Test Unitario.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Test Unitario\obj\Debug\Test Unitario.pdb

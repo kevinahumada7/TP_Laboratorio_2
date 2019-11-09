@@ -1,0 +1,16 @@
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Archivos\bin\Debug\Archivos.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Archivos\obj\Debug\Archivos.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\Archivos\obj\Debug\Archivos.pdb

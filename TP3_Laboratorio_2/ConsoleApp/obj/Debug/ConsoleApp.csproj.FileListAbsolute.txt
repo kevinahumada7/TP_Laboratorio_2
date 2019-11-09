@@ -1,0 +1,30 @@
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\ConsoleApp\bin\Debug\Clases de Instancia.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\ConsoleApp\bin\Debug\ClassLibrary1.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\ConsoleApp\bin\Debug\Excepciones.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\ConsoleApp\bin\Debug\Archivos.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\ConsoleApp\bin\Debug\ClassLibrary1.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\ConsoleApp\bin\Debug\Clases de Instancia.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\ConsoleApp\bin\Debug\Excepciones.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\ConsoleApp\bin\Debug\Archivos.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\ConsoleApp\bin\Debug\Clases de Instancia.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\ConsoleApp\bin\Debug\ClassLibrary1.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\ConsoleApp\bin\Debug\Excepciones.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\ConsoleApp\bin\Debug\Archivos.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\ConsoleApp\bin\Debug\ClassLibrary1.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\ConsoleApp\bin\Debug\Clases de Instancia.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\ConsoleApp\bin\Debug\Excepciones.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\ConsoleApp\bin\Debug\Archivos.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_2\ConsoleApp\obj\Debug\ConsoleApp.pdb

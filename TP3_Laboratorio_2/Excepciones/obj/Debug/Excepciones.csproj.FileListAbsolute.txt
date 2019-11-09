@@ -1,0 +1,4 @@
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP3_Laboratorio_3\Excepciones\obj\Debug\Excepciones.pdb
