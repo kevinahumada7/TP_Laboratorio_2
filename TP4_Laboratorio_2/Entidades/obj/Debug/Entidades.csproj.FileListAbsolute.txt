@@ -1,0 +1,12 @@
+C:\Users\Lucas\Escritorio En SSD\tp_laboratorio_2\TP4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Lucas\Escritorio En SSD\tp_laboratorio_2\TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lucas\Escritorio En SSD\tp_laboratorio_2\TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lucas\Escritorio En SSD\tp_laboratorio_2\TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Lucas\Escritorio En SSD\tp_laboratorio_2\TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lucas\Escritorio En SSD\tp_laboratorio_2\TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP4_Laboratorio_2\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP4_Laboratorio_2\Entidades\bin\Debug\Entidades.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP4_Laboratorio_2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP4_Laboratorio_2\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP4_Laboratorio_2\Entidades\obj\Debug\Entidades.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP4_Laboratorio_2\Entidades\obj\Debug\Entidades.pdb

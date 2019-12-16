@@ -1,0 +1,13 @@
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP4_Laboratorio_2\MainCorreo\bin\Debug\CorreoWindowsForm.exe.config
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP4_Laboratorio_2\MainCorreo\bin\Debug\CorreoWindowsForm.exe
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP4_Laboratorio_2\MainCorreo\bin\Debug\CorreoWindowsForm.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP4_Laboratorio_2\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP4_Laboratorio_2\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP4_Laboratorio_2\MainCorreo\bin\Debug\Entidades.dll.config
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP4_Laboratorio_2\MainCorreo\obj\Debug\FrmCorreo.csprojAssemblyReference.cache
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP4_Laboratorio_2\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP4_Laboratorio_2\MainCorreo\obj\Debug\CorreoWindowsForm.Properties.Resources.resources
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP4_Laboratorio_2\MainCorreo\obj\Debug\FrmCorreo.csproj.GenerateResource.cache
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP4_Laboratorio_2\MainCorreo\obj\Debug\FrmCorreo.csproj.CopyComplete
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP4_Laboratorio_2\MainCorreo\obj\Debug\CorreoWindowsForm.exe
+C:\Users\Kevin Ahumada\Documentos\GitHub\TP_Laboratorio_2\TP4_Laboratorio_2\MainCorreo\obj\Debug\CorreoWindowsForm.pdb
